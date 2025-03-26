@@ -23,8 +23,8 @@ A JavaScript/React-based frontend for visualizing PostgreSQL performance test re
 
 1. Clone the repository
    ```
-   git clone <repository-url>
-   cd pgperffarm-frontend
+   git clone https://github.com/AmitStredz/pgperffarm-reporter.git
+   cd pgperffarm-reporter/pgperffarm-frontend
    ```
 
 2. Install dependencies
